@@ -1,0 +1,1355 @@
+commit a33c968ec77b89bc6a736af55b63ed343aad39b6
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Tue Sep 18 14:18:26 2018 -0600
+
+    Update to latest packages
+
+commit 68a73cbe39869979d09e1bb8d4dafaff9ee00223
+Merge: 02324e5 f908d7d
+Author: Michal Piechowiak <misiek.piechowiak@gmail.com>
+Date:   Mon Sep 17 23:23:02 2018 +0200
+
+    Merge pull request #86 from DSchau/v2-merge
+    
+    merge v2 branch
+
+commit f908d7d85ea6df721dd96ea1eecf33a71db78c59
+Author: Dustin Schau <dustinschau@gmail.com>
+Date:   Mon Sep 17 16:19:58 2018 -0500
+
+    chore: use package json
+
+commit 4e559913983eb8ca3aec87264fe55fae5a84eeb0
+Merge: 02324e5 283eb87
+Author: Dustin Schau <dustinschau@gmail.com>
+Date:   Mon Sep 17 16:18:37 2018 -0500
+
+    Merge remote-tracking branch 'upstream/v2' into v2-merge
+
+commit 283eb87c1d168ab81142bd5f3d761ee5c2282b29
+Merge: 09774a9 376470a
+Author: Mike Allanson <michael.allanson@gmail.com>
+Date:   Mon Sep 17 21:58:26 2018 +0100
+
+    Merge pull request #84 from gatsbyjs/upgrade-gatsby-deps
+    
+    v2 deps update
+
+commit 376470a89d9b70c7149e13bda9b80221529c1d36
+Author: Michal Piechowiak <misiek.piechowiak@gmail.com>
+Date:   Mon Sep 17 22:53:50 2018 +0200
+
+    v2 deps update
+
+commit 09774a96f89be70d6b510b8c196f332652fe5c57
+Author: Michal Piechowiak <misiek.piechowiak@gmail.com>
+Date:   Sat Sep 8 01:06:18 2018 +0200
+
+    update lock file (#83)
+
+commit cdf2b57984887d609d578a27d8321307b76098cd
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Thu Aug 30 13:32:09 2018 -0700
+
+    Update dependencies
+
+commit 9ce22eb1b8c31053694b0177e4899d5c431cb108
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Wed Aug 29 09:05:20 2018 -0700
+
+    Update dependencies
+
+commit 63235e28b853807e3be8da37e79f5b9bb76ce73e
+Merge: ef4d133 c976350
+Author: Eric Poe <eric.poe@gmail.com>
+Date:   Sun Aug 26 22:46:43 2018 -0500
+
+    Merge pull request #66 from karlhorky/patch-1
+    
+    Remove unnecessary data prop
+
+commit ef4d133b7f0e9069693b6e49a2122e33f43ce326
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Tue Aug 14 15:29:13 2018 -0400
+
+    UPgrade dependencies
+
+commit 02324e5b04ea0a66d91c7fe7408b46d0a7eac868
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Tue Aug 14 15:27:33 2018 -0400
+
+    UPgrade dependencies
+
+commit 95c60e33b00d20396076b3f5574b9e47645fdc5a
+Author: Nick Roach <nicklaus.roach@gmail.com>
+Date:   Fri Aug 3 18:45:26 2018 -0400
+
+    Improve lighthouse score (#72)
+    
+    * add plugins and lang attribute
+    
+    * add plugins to config
+    
+    * add icon, theme/background color, change version
+
+commit 8d259d6e81baea6a5e2e1b0aecd4e1d7c3723dd0
+Merge: dcfeaae e6710f6
+Author: Mike Allanson <michael.allanson@gmail.com>
+Date:   Fri Aug 3 17:18:47 2018 +0100
+
+    Merge pull request #74 from amberleyromo/6940-starter-tour
+    
+    #6940: Update README.md
+
+commit e6710f65918deeda670b6d95166070f56270dea3
+Author: Amberley Romo <amberleyjohanna@gmail.com>
+Date:   Wed Aug 1 20:29:42 2018 -0500
+
+    (#6940): Update README.md
+
+commit 31e2241136d37404a74d859fed73ec786b2a3312
+Author: mackie <macklinu@users.noreply.github.com>
+Date:   Fri Jul 27 11:51:14 2018 -0700
+
+    Format all .js files with Prettier (#71)
+
+commit 6b27f8704db6828107f542999e9b4d34b6d85d14
+Merge: e28c185 ae8523a
+Author: Jason Lengstorf <jason@lengstorf.com>
+Date:   Tue Jul 24 09:39:13 2018 -0700
+
+    Merge branch 'v2' of github.com:gatsbyjs/gatsby-starter-default into v2
+
+commit e28c1859ab6ed6ecd0e494b0621e2a97bf86572d
+Author: Jason Lengstorf <jason@lengstorf.com>
+Date:   Tue Jul 24 09:38:48 2018 -0700
+
+    fix: update dependencies for security fix
+
+commit dcfeaaeaa9f372e4357f7f0799114cc775bf8af1
+Author: Jason Lengstorf <jason@lengstorf.com>
+Date:   Tue Jul 24 09:35:54 2018 -0700
+
+    fix: upgrade dependencies for security fix
+
+commit c9763501cdce8b1c7ea9daffec2f82f0b51d85cc
+Author: Karl Horky <karl.horky@gmail.com>
+Date:   Sun Jul 1 18:47:43 2018 +0200
+
+    Remove unnecessary data prop
+
+commit ae8523a1809368d6171fd89adda0e41a2198dda1
+Author: Jigz <jigzpalillo@gmail.com>
+Date:   Fri Jun 29 03:00:28 2018 +0800
+
+    Update Layout children Type (#64)
+    
+    Having the error below with element type.
+    Failed prop type: Invalid prop `children` of type `array` supplied to `Layout`, expected a single ReactElement.
+
+commit ce9b8b094687ee17ea65432b5ee82d4b95ee56e7
+Author: Steven Natera <snatera09@gmail.com>
+Date:   Thu Jun 28 13:01:06 2018 -0400
+
+    import graphql from gatsby package (#62)
+
+commit 47edd0ab0b2d34f6840ce1fd5deeee4e85946459
+Merge: 8f4fb34 0616532
+Author: Jason Lengstorf <jason@lengstorf.com>
+Date:   Wed Jun 20 09:30:19 2018 -0700
+
+    feat: add v2 version of the default starter (#60)
+    
+    Update for v2
+
+commit 0616532494d813453ed59f9e4f32c6d72ba11879
+Author: Jason Lengstorf <jason@gatsbyjs.com>
+Date:   Wed Jun 20 09:29:06 2018 -0700
+
+    fix: remove unnecessary fragment
+
+commit bbb633b7cf29934c897b726be253e9c4d1d36460
+Author: Jason Lengstorf <jason@gatsbyjs.com>
+Date:   Wed Jun 20 09:28:38 2018 -0700
+
+    fix: remove unnecessary fragment
+
+commit 84481905fa4ecaa2439421a182523933382c925c
+Author: Jason Lengstorf <jason@gatsbyjs.com>
+Date:   Wed Jun 20 09:14:22 2018 -0700
+
+    fix: update 404 page
+
+commit dce84f15a638aa7eebba2b6120fef4489487769b
+Author: mottox2 <y.mottox2@gmail.com>
+Date:   Wed Jun 20 13:59:33 2018 +0900
+
+    Use next version
+
+commit f12368d09f0c737d49aeaa3b4cabbfde0af2d23b
+Author: mottox2 <y.mottox2@gmail.com>
+Date:   Tue Jun 19 20:51:02 2018 +0900
+
+    Use layout as component
+
+commit 17692422dd1458499b2cba2a346fc5b53eec9b67
+Author: mottox2 <y.mottox2@gmail.com>
+Date:   Tue Jun 19 20:34:53 2018 +0900
+
+    Import Link from Gatsby
+
+commit 123b3899bef3130e5d2a890e4cff1ac5c78d2956
+Author: mottox2 <y.mottox2@gmail.com>
+Date:   Tue Jun 19 20:33:22 2018 +0900
+
+    Install v2 packages
+
+commit 8f4fb3430caa0cf5f681e61b7a16080e625a9a02
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Wed May 30 08:02:08 2018 -0700
+
+    Update README.md
+
+commit 77cf5538bbbe010421d845a88b7fdb32d1a92f20
+Author: Giulio D Caleffi <caleffigiulio@gmail.com>
+Date:   Thu May 31 01:00:24 2018 +1000
+
+    Added Repository Field to package.json (#56)
+    
+    * Added Repository Field to package.json
+    
+    https://docs.npmjs.com/files/package.json#repository
+    
+    * Update package.json
+
+commit 6b3e45674dee3d1f58a806530503fc51c6a52b7a
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Sat Apr 14 16:46:34 2018 -0700
+
+    Upgrade dependencies
+
+commit c56ee0b4302178a78fe48ecb05a93010ccbda188
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Mon Apr 9 18:10:47 2018 -0700
+
+    Fix name and remove useless directory
+
+commit e06a123527c57876f2c68c0f4569bec8afce9c81
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Mon Apr 9 17:02:06 2018 -0700
+
+    Update dependencies
+
+commit b6b8b7e8c3f5fd24cec772c277e40f9b360b2c38
+Author: Valentine C <valentine.github@me.vc.sg>
+Date:   Tue Apr 10 07:14:56 2018 +0800
+
+    Use site title from gatsby-config.js in header title and header component (#54)
+
+commit 6c96f2516173e45722776f88b031d152fc2accbd
+Author: David Baumgold <david@davidbaumgold.com>
+Date:   Sat Mar 31 19:03:13 2018 +0200
+
+    Remove dead link (#53)
+
+commit 4e5d02fbaa8575f06f94aae80260ab5ec1a0dfd3
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Sat Mar 24 19:29:55 2018 -0700
+
+    Upgrade dependencies
+
+commit 190fa676f768817249a22d3035f065c61d52ac16
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Mon Mar 19 17:03:11 2018 -0700
+
+    Upgrade packages
+
+commit d539a81d7b01263f70f28b702aa9698ff3d3bb42
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Sat Mar 17 09:23:12 2018 -0700
+
+    Upgrade dependencies
+
+commit 1341c659652611a126fcd7df519bfd785925fe7a
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Fri Mar 16 18:18:14 2018 -0700
+
+    Upgrade dependencies
+
+commit cf26c6c79b7f7c6ae1217c0f03f418ed93ab4c3f
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Wed Mar 14 09:11:15 2018 -0700
+
+    Upgrade dependencies
+
+commit d831abe740275f0f9eefcd0df03acf7ed6efb438
+Author: Pravdomil <pravdomil.toman@gmail.com>
+Date:   Fri Mar 9 17:41:47 2018 +0100
+
+    prevent escaping (#51)
+
+commit ee3f4adcfa41d5fff13307d471ae49e1f4d757e0
+Author: Pravdomil <pravdomil.toman@gmail.com>
+Date:   Thu Mar 8 23:43:04 2018 +0100
+
+    Update README.md (#50)
+    
+    * Update README.md
+    
+    * Update README.md
+
+commit bcaeb5e4a55a382e4418f5722a7b52d6ad47b4af
+Author: Pravdomil <pravdomil.toman@gmail.com>
+Date:   Thu Mar 8 23:31:09 2018 +0100
+
+    finetune gitignore (#49)
+
+commit 033168f00d6e9fe141d27c044a3088b9d1ba7b93
+Author: Pravdomil <pravdomil.toman@gmail.com>
+Date:   Thu Mar 8 23:29:56 2018 +0100
+
+    move prettier opts to .prettierrc (#48)
+    
+    * Create .prettierrc
+    
+    * move prettier opts to .prettierrc
+
+commit cbc8986b5ce7e9e3b68d0026734da395dd7cf4b9
+Author: Pravdomil <pravdomil.toman@gmail.com>
+Date:   Thu Mar 8 23:12:52 2018 +0100
+
+    do not specify main entry (#47)
+
+commit 10fa5b6c9136799a8ada0207b38658b9ea60af49
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Sat Mar 3 23:25:29 2018 -0800
+
+    Upgrade dependencies
+
+commit ee997d20aa4e42dfbf04183a42f247ac6d46b171
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Wed Feb 28 08:16:50 2018 -0800
+
+    Upgrade dependencies
+
+commit 885fa016eee944e9dea6af3175b63bad7da0aa34
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Sun Feb 25 13:48:04 2018 -0800
+
+    Upgrade dependencies
+
+commit 27fe250461ee247a0354094eb7eedc9dad266d5e
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Thu Feb 22 15:58:22 2018 -0800
+
+    Upgrade dependencies
+
+commit 144556dd6c0ef9eba714f06eaaacd4291fdab2c2
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Tue Feb 20 16:40:35 2018 -0800
+
+    Upgrade dependencies
+
+commit 6506a1309cbd7a79dfdad175f49d4842a519b4ad
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Sat Feb 17 11:02:00 2018 -0800
+
+    Upgrade dependencies
+
+commit 98f2aff97e1e1406cd0a2770b55d37dbfed7aa26
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Fri Feb 16 08:24:48 2018 -0800
+
+    Upgrade dependencies
+
+commit 96da81ca5fa1c43a12db79552496e6a18d45a6c2
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Wed Jan 17 18:23:47 2018 -0800
+
+    Upgrade dependencies
+
+commit 93079232d4850892fcf2058beffc8b2c3d9dee1f
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Thu Jan 11 13:59:22 2018 -0800
+
+    Update packages
+
+commit 249121e0dbf3301d0e764b2a3437c078b141f0c3
+Author: Marco Biedermann <marco.biedermann@gmx.de>
+Date:   Wed Jan 10 16:42:55 2018 +0100
+
+    Feature: Clean up code base (#40)
+    
+    * fix auto fixable ESLint warnings
+    
+    * use .jsx file extension
+    
+    * move Header into it's own component
+    
+    * use .js insteda of .jsx file extension
+    
+    * format code using prettier
+
+commit ae0335f2b9943942a7e082b8951bee33c9649dba
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Wed Jan 10 07:41:10 2018 -0800
+
+    Upgrade dependencies
+
+commit 67db6e629e7c6af1fc41453b90aac7addbf9047c
+Author: Yeison Daza <jahir045@gmail.com>
+Date:   Wed Jan 10 10:34:05 2018 -0500
+
+    '#upgrade: main dependencies' (#39)
+
+commit 3afbd5c745431f7e9e7b1350b8f3ccafff24d899
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Wed Dec 20 16:33:16 2017 -0800
+
+    upgrade dependencies
+
+commit ad9d7b89f57f4ed6929c7dd871891bc503c1b856
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Tue Dec 19 11:41:34 2017 -0800
+
+    upgrade dependencies
+
+commit 7bd48529b149ef39cc1655dbb7a8c0fb60076a08
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Sun Dec 17 17:07:24 2017 -0800
+
+    upgrade dependencies
+
+commit a15ee6af64d09214ac9e2510fc2a91d6dbc6f72c
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Sun Dec 17 14:42:19 2017 -0800
+
+    Update dependencies
+
+commit 3a81c6dab5311ed7130538cee158327cc16c4a5d
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Sat Dec 16 23:29:38 2017 -0800
+
+    upgrade dependencies
+
+commit 8f86ab48c2a3a641b9aaf751226c135740c53464
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Sat Dec 16 12:13:16 2017 -0800
+
+    upgrade dependencies
+
+commit e09f9414483defb0a07e2f09566e2619637f8edc
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Thu Dec 14 14:46:11 2017 -0800
+
+    Update dependencies
+
+commit 061a1a5951ee5e73ef3ddbf93d501f07db87322b
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Sat Dec 2 17:39:21 2017 -0800
+
+    Upgrade dependencies
+
+commit 6e8592a1666967ace8701186261b83545b713393
+Author: m-allanson <michael.allanson@gmail.com>
+Date:   Sun Dec 3 00:31:09 2017 +0000
+
+    Add placeholders for Gatsby's API extension points (#37)
+
+commit 0a41dbe0ad33506e4519b8b92ce71b03366260b8
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Tue Nov 21 16:29:34 2017 -0700
+
+    Upgrade dependencies
+
+commit 30809a40cb5b2b40232d4a6f8f247de1127788dc
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Fri Nov 17 16:28:44 2017 -0700
+
+    Upgrade dependencies
+
+commit 7aa6a5c2cfb8d2699e032822dd7f33ad29259ce0
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Fri Nov 17 14:06:28 2017 -0700
+
+    Upgrade dependencies
+
+commit 6a980aad07546ec0283b3e1c7e641236153541ea
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Thu Nov 16 18:41:37 2017 -0800
+
+    Upgrade dependencies
+
+commit 4f1cbc504fc79eaf0a381eac5ff38b15d99ab011
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Mon Nov 13 13:32:59 2017 -0800
+
+    Upgrade dependencies
+
+commit dc2c9fdd7ced4eff0b8e54c807fe8b4711f92e03
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Mon Nov 13 10:42:04 2017 -0800
+
+    Upgrade dependencies
+
+commit a978d1e5526d9270d542af92d278b71cc8f1079c
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Tue Nov 7 13:40:16 2017 -0800
+
+    Upgrade dependencies
+
+commit 9e262f5f78437fb20ae7655baa554a9344201ac5
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Fri Nov 3 22:06:44 2017 -0700
+
+    Upgrade dependencies
+
+commit e86de4c18a07d5348701f5014d7927614c5018e1
+Author: ocboogie <boogie@mikulec.com>
+Date:   Thu Nov 2 11:13:26 2017 -0700
+
+    Fix the format script to work on Windows (#35)
+    
+    Changed the `'` to `\"` so it's compatible with Windows.
+
+commit 30c85c61212dabf80ebde90ecc44e529cc8f0b43
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Thu Oct 19 12:24:40 2017 -0700
+
+    upgrade dependencies
+
+commit d0e058fee898086acae1d32aca047f57f7eee4c2
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Fri Oct 13 10:07:57 2017 -0700
+
+    Upgrade dependencies
+
+commit 1c97a22de02b783aeca76dcd63a88dbf5abee716
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Fri Oct 13 09:24:04 2017 -0700
+
+    Don't ignore yarn.lock so users can add theirs
+
+commit b2faa3a3ae2a68ca31e5a6ffb0e321cba123fb78
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Tue Sep 26 17:13:59 2017 -0700
+
+    Update dependencies
+
+commit bb2371de1f5bb850089fe68153a808a2bb00b241
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Thu Sep 21 11:12:39 2017 -0700
+
+    Update dependencies
+
+commit 9bb366e6900cef537f71fe0c4798aa89597417c0
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Sat Sep 16 21:45:21 2017 +0200
+
+    Update dependencies
+
+commit fe43444d94fb3ed9c2e21427bfd840c0ec8f1441
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Sat Sep 16 15:36:35 2017 +0200
+
+    Update dependencies
+
+commit 0c556d3554180b9aacf75dc858188754515195be
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Sat Sep 16 14:24:12 2017 +0200
+
+    Update packages
+
+commit 82b268195965fb8fa795a4ec6611fd8f518b2e1e
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Sat Sep 16 13:14:01 2017 +0200
+
+    Add a package-lock.json which hopefully will stop NPM from deleting modules all the time
+
+commit f718a74a427faccc89f6262de41b8d06ddda1774
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Wed Aug 30 16:55:43 2017 -0700
+
+    Update dependencies, run prettier, more fun second page title
+
+commit dc990c42e3d6dd9db9af35fe7637dca4dc7aac70
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Fri Aug 18 23:06:05 2017 -0400
+
+    Update dependencies
+
+commit 41eae909f51aef9048cc00cfa17cffbe9d379fa6
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Mon Aug 14 21:27:22 2017 -0400
+
+    Upgrade dependencies
+
+commit 0faf3e1d2c98ad786457fe5e048261cde7b24997
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Mon Aug 14 21:17:17 2017 -0400
+
+    Upgrade dependencies
+
+commit 9999b149b26b9951aa336daa48307ec5e4871fc6
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Mon Aug 14 18:54:00 2017 -0400
+
+    Update yarn.lock
+
+commit 67aec2cbbc41d853274e88f7b67803a2dc51a032
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Fri Aug 11 11:26:17 2017 -0400
+
+    Update yarn.lock
+
+commit 951a72dedc69d7ecd2b590a99685e97be1e11d3d
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Fri Aug 4 17:32:55 2017 -0700
+
+    Up dependencies plus tweak CSS"
+
+commit 1f1b01d6f06e18fc86dad1f99c42a8d5d417a200
+Author: Savio van Hoi <savio.vanhoi@gmail.com>
+Date:   Tue Jul 25 19:32:21 2017 +0200
+
+    Issue 29/refactor gatsby starter default (#31)
+    
+    * Delete TravisCI config
+    
+    * Remove gh-pages dependency and add prettier
+    
+    * Change double quotes to single quotes in src files
+    
+    * Update packages, refactor classes to stateless components and update
+    readme
+    
+    * Removed package-lock as yarn is the default for this project
+    
+    * Readded travis yml
+    
+    * Remove travis config
+    
+    * Remove Eslint and Editorconfig
+    
+    * Remove html.js as it's already imported implicitely
+    
+    * Update lock file
+
+commit bdbd02facf7bc8f6f5607dd4349965ddbbe28d65
+Author: Emily Aviva Kapor-Mater <emilyaviva@users.noreply.github.com>
+Date:   Tue Jul 18 17:21:18 2017 -0400
+
+    ignore .DS_Store files (#30)
+
+commit 5cea832b07f196a280c46f04a3aa5730d0fc09de
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Tue Jul 11 21:38:44 2017 -0700
+
+    Actually import typography.css
+
+commit 418915b77845cddd9d61f1fd2191ba0a50111574
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Tue Jul 11 15:55:03 2017 -0700
+
+    Remove react-helmet from src/html.js as that's handled by gatsby-plugin-react-helmet
+
+commit c630e4597c3be7ec2a3655b13c42f77afda3c8a6
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Mon Jul 10 19:44:31 2017 -0700
+
+    Remove typography.js
+
+commit 8b7dc9227cdfa7ae2ab64ae7531d55529beb6063
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Mon Jul 10 19:40:25 2017 -0700
+
+    Not using markdown-styles in default starter any more
+
+commit 44833ea74cfb8f16a0665b563416ab67f4a2364d
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Sat Jul 8 18:35:54 2017 -0700
+
+    Since we don't have markdown support here, use a js page
+
+commit 9d1ce946bb52111a738fac77d1512f0c4127f4c3
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Sat Jul 8 09:40:48 2017 -0700
+
+    Use more sensible class name
+
+commit 52b3033603f404acb0e873aceca3f7b246aabfa0
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Sat Jul 8 09:39:32 2017 -0700
+
+    update command
+
+commit cf31ebc02b64eb85d8ecf19e2b3a95c31653d4f1
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Fri Jul 7 07:31:26 2017 -0700
+
+    Fix require for styles.css
+
+commit 3b399400ceecc55832f479b944899aafdd26eb50
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Thu Jul 6 15:25:56 2017 -0700
+
+    Upgrade to 1.0.1
+
+commit 6e19a8246f2751cabe8c23148c11b2459ab2a1f5
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Tue Jul 4 10:39:38 2017 -0700
+
+    Upgrade starter to 1.0
+
+commit e6c847d7097c06db9ffe1c4fa944dfbc87e5413c
+Author: Levi Buzolic <levibuzolic@gmail.com>
+Date:   Fri May 26 17:44:31 2017 +1000
+
+    Use ES6 classes instead of React.createClass and use the React PropTypes package instead of React.PropTypes (#28)
+
+commit d59f7e13c82d3975ea3ee6d203e43cfb15d59bae
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Tue Apr 18 09:59:14 2017 -0700
+
+    Add missing prefixLink
+
+commit 611cb007cefe30b4ec951d06b70759451f43a370
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Mon Apr 17 10:35:30 2017 -0700
+
+    Fix typo
+
+commit 5dbafe7bb8131804e9a6b94848029e8a2b83ee20
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Mon Apr 17 09:57:11 2017 -0700
+
+    Prefix links
+
+commit a3675e954cde52b8eed6bfbbfffe5f21014cf268
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Mon Apr 17 09:51:41 2017 -0700
+
+    Add format command to run files through Prettier
+
+commit e4dd947e5c3559b2ac9d27ead20c75a75061e33e
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Mon Apr 17 09:47:51 2017 -0700
+
+    Add a page-2 to show linking between pages
+
+commit 5fcf82563d2a223c8716b7f8a040a92a051c947d
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Mon Apr 17 09:47:28 2017 -0700
+
+    Shrink font size some on mobile
+
+commit a2883c456dcea40079efb3ac496eda293f03c5a1
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Mon Apr 17 09:41:52 2017 -0700
+
+    Update dependencies
+
+commit 503b597249d6c043314c2414a4845a3c0c34ba1c
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Fri Apr 14 16:22:09 2017 -0700
+
+    Upgrade to latest html-helmet
+
+commit 6efa96795cdc30bc33e016b54c63a9bb36e33a06
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Fri Apr 14 16:20:59 2017 -0700
+
+    Dramatically simplify this starter so it's easier to build new projects off
+
+commit bc23ce67154451cd32e0ba5bcb1a11d462422872
+Merge: b0a990c b5ca2fe
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Wed Feb 22 09:58:36 2017 -0800
+
+    Merge branch 'master' of github.com:gatsbyjs/gatsby-starter-default
+
+commit b0a990c4304ffaca64bd53ec4386364e3bddfcff
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Wed Feb 22 09:58:29 2017 -0800
+
+    Add yarn.lock
+
+commit b5ca2fe43279c22ed50021176975e202c28c9a4d
+Author: Stefan Huynh <huynh.stefan@gmail.com>
+Date:   Mon Jan 23 12:21:55 2017 -0800
+
+    Add frontmatter html title to html wrapper component (#25)
+
+commit 26f8515ac3ad0147e9ac841bb0e90840206b9558
+Author: Brian Douglas <bdougie@users.noreply.github.com>
+Date:   Tue Jan 3 12:39:33 2017 -0800
+
+    Nelitfy button added to the deploy section to README for starter (#24)
+    
+    * Update README.md
+    
+    * Create netlify.toml
+    
+    * Update netlify.toml
+
+commit 24f3536420f8cab56dc27a5ce6a78ea894cadae1
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Thu Dec 15 09:20:47 2016 -0800
+
+    Delete yarn.lock
+
+commit 677274c08c02b7aa68c867a3a52c26252f1e1e29
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Mon Nov 28 14:15:58 2016 -0800
+
+    Update dependencies
+
+commit 070305ef6afd98c8c4e1a54d3b86fed9181501f9
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Mon Nov 28 14:15:50 2016 -0800
+
+    Update for Typography.js 0.14
+
+commit 3298fc9d87fe4f15abc0269cc37a06f7405e3a6e
+Author: Richard Lai <it.rclai@gmail.com>
+Date:   Tue Nov 15 20:11:44 2016 -0500
+
+    Use single quotes (#23)
+
+commit 9c4bae352c1ad1df3ff491947e52313ba604d250
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Sat Nov 12 10:10:18 2016 -0800
+
+    Update dependencies
+
+commit 36fb8f1f2fb67d8a8e91044cf24b9c117032f99b
+Author: the-zebulan <the-zebulan@users.noreply.github.com>
+Date:   Tue Oct 18 22:43:00 2016 -0600
+
+    Typo fixed in "pages/markdown.md" (#22)
+    
+    `Abbriviation` -> `Abbreviation`
+
+commit d710b3ef2a98a9997c74c30ebaa46d5249ba42ed
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Sat Oct 15 12:24:07 2016 -0700
+
+    Update dependencies
+
+commit 20747c1149d15abc76e567038cd3f2a94557f973
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Tue Oct 11 09:58:24 2016 -0700
+
+    Add yarn.lock
+
+commit b03081fdbe532871f00d0d3fce1d5a80112557e2
+Author: Chiedo <chiedo@chie.do>
+Date:   Wed Sep 14 13:35:52 2016 -0400
+
+    Switched from DocumentTitle to Helmet for more versatility (#21)
+
+commit 9897fc58088e8d97f46d00cc6edab5855d863efb
+Author: Daniel Schildt <daniel.schildt@gmail.com>
+Date:   Tue Sep 13 00:04:46 2016 +0300
+
+    docs(README.md) improve readability (#20)
+    
+    - Improve readability of the text by using Markdown.
+
+commit fbde1eb44e6858e3e9a31e5ec80df4968c59668b
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Sat Sep 10 11:11:44 2016 -0700
+
+    ES5ify custom loader as removing the .babelrc means it won't be compiled anymore
+
+commit ba341b9dbc14eab4e0858a2d72d084351d438204
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Sat Sep 10 10:44:52 2016 -0700
+
+    remove all unneeded things
+
+commit 3faed18e30ff11a1db4b96710d401f86dba6637f
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Fri Sep 9 16:50:28 2016 -0700
+
+    Remove eslint
+
+commit ff178d219ada2f1fa1481a696e97c7bb9e53a904
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Fri Sep 9 16:49:52 2016 -0700
+
+    Remove now unneeded dependencies
+
+commit d6fd000c9b87ba53af0e82c5b24517aa6c28bc7b
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Mon Sep 5 09:06:33 2016 -0700
+
+    Fix PropType
+
+commit 8546d7dcbaa83176940fee09aa898596c7f1ce0c
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Mon Aug 22 20:15:13 2016 -0700
+
+    Ensure 404 page works on Github pages
+
+commit 2f41e17de891f8e0c49eb85486b49d7ba4421619
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Mon Aug 22 20:11:41 2016 -0700
+
+    Remove old favicon code closes #18
+
+commit 4b932e2a2dfa988e9761870c267b67e24feba8b0
+Merge: ece7ac5 1ae00b0
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Thu Aug 18 13:03:11 2016 -0700
+
+    Merge branch 'master' of github.com:gatsbyjs/gatsby-starter-default
+
+commit ece7ac52444ced28e286b5b643eb3b4c7197276e
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Thu Aug 18 13:01:47 2016 -0700
+
+    Update dependencies and some cleanups
+
+commit 1ae00b0994426b7ac5478031e4f62a7c41e47ae3
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Thu Aug 4 16:41:54 2016 -0600
+
+    Georgia doesn't have 300/600 weights
+
+commit 914d9e130c42d9a6eb3e275d8319301360e63c8c
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Thu Aug 4 16:15:33 2016 -0600
+
+    Switch to react-typography and add GoogleFont in case user adds Google Font to typography setup
+
+commit 9009b01ea53b672df2dff183937e8b91b39d4722
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Wed Aug 3 18:56:12 2016 -0600
+
+    Update dependencies
+
+commit e64f46747c275bd8ae2959eca5dd82ded77db30a
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Tue Aug 2 15:40:21 2016 -0600
+
+    No reason to set maximum-scale unless building web app
+
+commit d425bc72a8e848f7ae4419bf3b69c08d1095e871
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Sat Jul 30 11:54:09 2016 -0700
+
+    For HTML wrapper, just set the html. Remove vestiges from Markdown wrapper
+
+commit 657f75ef6f3eb6987521b0480382fcdc2daf9437
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Sat Jul 30 09:10:59 2016 -0700
+
+    Update dependencies
+
+commit a44c4d2ffbfac23b38bc4c2d684e2467d4517be8
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Wed Jul 20 11:55:55 2016 -0700
+
+    Add script for develop/build
+    
+    npm run develop
+    npm run build
+    
+    So can use without a global Gatsby install.
+
+commit f8b9deee7bc558ec91e20f7cff13414356b245ae
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Wed Jul 20 11:55:33 2016 -0700
+
+    Upgrade to Gatsby 0.12
+
+commit 79e6ee343cb1beca2bb908aaead2da53ab4add73
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Wed Jul 13 13:47:22 2016 -0700
+
+    Add deploy script
+
+commit 6410f6221dac713d6e706968eea9f70f3a651970
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Wed Jul 13 13:44:48 2016 -0700
+
+    Update dependencies
+
+commit b1c43625939c1283f8b7249887290f9844af35ed
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Tue Jul 5 19:26:00 2016 -0700
+
+    Upgrade dependencies
+
+commit 5e22fa2bc8a24badf7eb7eff568ce0644be49037
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Tue Jul 5 18:52:13 2016 -0700
+
+    Add css modules example
+
+commit 7d184cb1f04eadea5457902c4b964c99793777e0
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Tue Jun 28 20:13:09 2016 -0700
+
+    Upgrade to latest typography
+
+commit 3dccd228ce04a40d33dd47df381a21f71bc7e71a
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Tue Jun 7 09:21:27 2016 -0700
+
+    Update dependencies and add missing ones necessary for NPM 2
+
+commit 12cbba32aa07d9d92941cab6c8d2dfb50cf34948
+Author: Emily Aviva Kapor-Mater <emilyaviva@users.noreply.github.com>
+Date:   Wed Jun 1 08:21:12 2016 -0700
+
+    rename exported class of index.js to "Index" (#15)
+
+commit 7efa56e28db173aabe30c97a5d848be711e92a87
+Merge: c1eee90 ac30fa6
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Wed May 11 10:47:16 2016 -0700
+
+    Merge pull request #14 from gatsbyjs/0.11
+    
+    0.11
+
+commit ac30fa6ce4a686198900e12efa055202a61355d2
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Wed May 11 10:44:28 2016 -0700
+
+    Update .eslintrc
+
+commit d46d8096721025717feffb129ce3e4d492a8e395
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Wed May 11 10:16:02 2016 -0700
+
+    Update dependencies
+
+commit 1faecb5a7ded5585b12e8330f9aaa663f9d8b769
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Wed May 11 10:15:54 2016 -0700
+
+    Inline css
+
+commit c1eee904c1737b151e93ddf65651c82b8fe92b1b
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Sat May 7 22:16:17 2016 -0700
+
+    Add cache buster to bundle.js
+
+commit 218f884c9b10dbadfc8ae5bac8f66c805038662f
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Mon May 2 22:42:00 2016 -0700
+
+    Stop testing Node 0.10 as it's not supported any longer
+
+commit 75a2cf8fa7848b9ed9df1134da2b67aba21b2cfa
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Mon May 2 22:28:09 2016 -0700
+
+    Upgrade dependencies
+
+commit 573f89f90cec9118b8ade1f10b58e66f156d6cd4
+Author: Timur Çelikel <me@timurcelikel.com>
+Date:   Tue May 3 07:21:07 2016 +0200
+
+    Add page titles to all pages (#13)
+
+commit d3d2646f0139ba726d58707f17b06954d4879f7c
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Wed Apr 27 10:53:19 2016 -0700
+
+    Ignore .sass-cache/
+
+commit 1cf767dfd60730414c4058bff99654943b238465
+Author: patrykkopycinski <contact@patrykkopycinski.com>
+Date:   Tue Apr 19 06:12:01 2016 +0200
+
+    Add support for react 15.0.1 (#12)
+
+commit c44202bcf486e808aa398dbab601902a454fcd4a
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Sat Apr 16 15:43:45 2016 -0700
+
+    Upgrade dependencies
+
+commit 8670967e9af85ecbf1b75308dd68a2ec39cdca78
+Merge: dd7d85a a9565bd
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Mon Apr 11 20:22:46 2016 -0700
+
+    Merge branch 'master' of github.com:gatsbyjs/gatsby-starter-default
+
+commit dd7d85a25f7020d80c81bb31dd4645742a859774
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Mon Apr 11 20:22:37 2016 -0700
+
+    app.js not used by Gatsby any longer
+
+commit a9565bd01ad1efdee83dd9eb2aaf392d787b00ad
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Sat Apr 9 12:50:57 2016 -0700
+
+    Update README.md
+
+commit 8cc1228b79a2325767699f7cd6c43129a2240276
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Tue Mar 29 16:42:51 2016 -0700
+
+    Add needed dependencies for NPM 2
+
+commit 096dd5a957c1c74d1e51b080f3223dcbd492d986
+Merge: 0d740a7 8a0b421
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Mon Mar 28 21:23:42 2016 -0700
+
+    Merge branch '0.9'
+    
+    Conflicts:
+    	package.json
+
+commit 8a0b421bbb140aebba9ddb9367eedfaf0798e5a7
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Mon Mar 28 21:12:59 2016 -0700
+
+    Update for 0.9 release
+
+commit 0d740a79a6e76992043dc8513d35cdf81fac7f38
+Merge: 00d4034 e170888
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Thu Mar 24 15:23:36 2016 -0700
+
+    Merge pull request #9 from mef/patch-2
+    
+     Add js-yaml as top-level dependency
+
+commit e170888b91fe9c37ba31e90c720f8a6d1423b0e4
+Author: Mehdi El Fadil <m.ef@mango-is.com>
+Date:   Thu Mar 24 23:18:31 2016 +0100
+
+     Add js-yaml as top-level dependency
+    
+    was causing the webpack build to fail (cf similar problem fixed in gatsbyjs/gatsby#174)
+    
+    Error message:
+    
+        ERROR in ./wrappers/yaml.js
+        Module not found: Error: Cannot resolve module 'js-yaml' in /home/username/gatsby-default/wrappers
+         @ ./wrappers/yaml.js 17:14-32
+    
+    `gatsby develop` starts well after performing this change.
+
+commit 00d403418a66c5cbd1554a55d8fb0071333b9a3c
+Merge: c35ae55 7446687
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Thu Mar 24 15:07:24 2016 -0700
+
+    Merge pull request #8 from mef/patch-1
+    
+    Add history as top-level dependency
+
+commit 7446687cf2600e6456446454068c7b7e2e483c9f
+Author: Mehdi El Fadil <m.ef@mango-is.com>
+Date:   Thu Mar 24 23:01:48 2016 +0100
+
+    Add history as top-level dependency
+    
+    was causing the webpack build to fail (cf similar problem fixed in gatsbyjs/gatsby#174)
+
+commit c35ae553f3a29e661c643bbdcac96054c8e20ddf
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Mon Mar 14 11:56:56 2016 -0600
+
+    Link to the markdown loader file
+
+commit d49ac2d31a886fc741caac28e06c6289ea26807d
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Mon Mar 14 11:55:04 2016 -0600
+
+    Add example of how to override the Markdown loader
+
+commit 29d2d9d33feaa8c31ef62a9cba3b22c62e934bbf
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Sun Mar 13 14:28:24 2016 -0700
+
+    Better fake links
+
+commit 43fd373b28561adb76852e8ab689f5f8f85424c7
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Sun Mar 13 14:19:45 2016 -0700
+
+    Add link prefix support
+
+commit 66b0d112525e314d8b74c757ebc26d990c1c0411
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Sat Mar 12 23:46:13 2016 -0800
+
+    Upgrade eslint and friends
+
+commit 68983f64c9a72580bcd920205a16d586673a3265
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Sat Mar 12 23:06:35 2016 -0800
+
+    Fix padding
+
+commit 5191ecfb3634eccbf3391bb9ceb680a6f9ff9949
+Merge: 8d2e1b6 5741929
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Sat Mar 12 23:02:27 2016 -0800
+
+    Merge pull request #7 from gatsbyjs/kitchen-sink
+    
+    Kitchen sink upgrade
+
+commit 57419294e0e5d58adabfe8c2faf07e0845a0f1ee
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Sat Mar 12 23:01:57 2016 -0800
+
+    Add a simple header/nav-bar fixes #2
+
+commit 9d55a8eefbcefc484e7e82135283af776237f1d3
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Sat Mar 12 11:53:15 2016 -0800
+
+    Add many more examples to make this starter a kitchen sink starter.
+
+commit 8d2e1b6e7094427dbe0727eef21028cc7acdee0a
+Merge: 294f2e8 1f1bd1e
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Mon Mar 7 10:36:13 2016 -0800
+
+    Merge pull request #6 from gatsbyjs/add-404
+    
+    Add simple 404 page
+
+commit 1f1bd1efb8d985afd0782bf66470e357774e9721
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Mon Mar 7 10:36:03 2016 -0800
+
+    Add simple 404 page
+
+commit 294f2e84e47bc3111d67f8058835a96739c22447
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Sun Feb 21 18:51:03 2016 -0800
+
+    Convert .jsx files to .js
+
+commit 3690fff3f528cd6e28a2f6eaf19a893ccb2f79db
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Sun Feb 21 18:45:19 2016 -0800
+
+    Add link to styles.css on production builds
+
+commit f348d0e0b8203f67ca1a238baf5e94b3d6c97aad
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Sat Feb 20 12:58:35 2016 -0800
+
+    Upgrade for Gatsby 0.8
+
+commit 53c0735cf164777d185f979b85fc8ff552b1a148
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Sat Feb 20 12:40:48 2016 -0800
+
+    Test on Travis
+
+commit 0dfc1f57e757e231d68c4cfdf8c8e14ff0c5ef58
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Sat Feb 20 12:39:18 2016 -0800
+
+    Add lint npm script
+
+commit afbb51c43c0dc1c0fe27e60903c282ac864e3228
+Merge: 52fe755 e9afb39
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Sat Feb 20 12:38:18 2016 -0800
+
+    Merge branch 'master' of github.com:gatsbyjs/gatsby-starter-default
+    
+    Conflicts:
+    	html.jsx
+
+commit 52fe75593ea1a47ff6e9a337dd871ccde685f3da
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Sat Feb 20 12:37:26 2016 -0800
+
+    Fix eslint errors
+
+commit e9afb397ea09cc0b621c0b799ebb0bea6b2e9f54
+Merge: ab71cdd a110d45
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Mon Dec 14 21:57:42 2015 -0800
+
+    Merge pull request #5 from slightlytyler/master
+    
+    Wrap bundle.js in link
+
+commit a110d45625149b0767a7690d73a9bfddc0c87053
+Author: Tyler Martinez <slightlytyler@gmail.com>
+Date:   Mon Dec 14 22:50:24 2015 -0600
+
+    Wrap bundle.js in link
+
+commit ab71cdd4ef5c5f491d70f434ea09deb7246fa816
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Fri Dec 11 17:25:44 2015 -0800
+
+    Add basic .babelrc
+
+commit 873c1aaead446a9a3a060066d57e5007ce690875
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Tue Dec 1 12:23:08 2015 -0800
+
+    Remove unnecessary getDefaultProps
+
+commit 87bfb8c91c5c9e2a824d16ee2c4a8c1d8765e69e
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Tue Nov 24 21:41:54 2015 -0800
+
+    Update to react-responsive-grid release for React 0.14
+
+commit 73ee95214af507f4d7dcd5ad4600b6a62745c27c
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Sat Nov 21 21:44:33 2015 -0800
+
+    Restore old typography + use title + move over md wrapper so people can modify that easily
+
+commit eb1533db65e5bb363e544b76165452fbf6814094
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Sat Nov 21 21:35:16 2015 -0800
+
+    Factor out typography into own file
+
+commit 1a1709fdb038fc58c0a356fd3f0dfbec36fdebb2
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Sat Nov 21 21:32:00 2015 -0800
+
+    Update dependencies for Gatsby 0.7
+
+commit 86b56dafdb4b568dcd97b4c8926ff4e500e99f4d
+Merge: 6feb491 896b2f5
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Sun Sep 13 15:32:16 2015 -0700
+
+    Merge pull request #1 from gesposito/master
+    
+    Converted to ES6, JSX
+
+commit 896b2f5d16fcf3515a605d25ec56fa56b838e68d
+Author: Gianluca Esposito <g@esposi.to>
+Date:   Sat Sep 12 10:09:20 2015 +0200
+
+    Converted to ES6, JSX
+
+commit 6feb491223e0ab1e820a815dabb4db274a4bcae0
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Mon Jul 20 18:01:13 2015 -0700
+
+    Initial commit of new default starter
+
+commit a74470aca0b27eeaba389d9c4da793d8c54af205
+Author: Kyle Mathews <mathews.kyle@gmail.com>
+Date:   Mon Jul 20 17:52:53 2015 -0700
+
+    Initial commit
